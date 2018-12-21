@@ -1,8 +1,8 @@
-body {text-align: center; margin: 0;background-color: black;}
+body {text-align: center; margin: 0;}
 h1 {font-family: 'Sacramento', cursive; font-size: 72px; color: #66BFBF; margin: 50px auto 0 auto;}
 h2 {font-family: 'Open Sans', sans-serif;color: #11999E;}
 h3 {font-family: 'Open Sans', sans-serif;color: #11999E;}
-p {font-family: 'Roboto Mono', monospace;}
+p {font-family: 'Roboto Mono', monospace; margin: 0}
 .machinist {font-size: 22px; color: #66BFBF; margin-top: 0}
 hr {width: 80px;
 border-style: dotted;
@@ -24,8 +24,8 @@ display: inline-block;}
  .satellite {width: 25%; float: right; margin-left: 30px;}
  .skill-row {text-align: left; margin: 20px auto 20px auto; line-height: 1.5; float: left;}
 
-.bottom-container {height: 150px; background-color: #66BFBF; margin: 100px 0 0 0; padding: 0;
-  color: #11999E; margin: 0;}
+.bottom-container {height: 150px; background-color: #66BFBF; margin: 100px 0 0 0;
+  color: #11999E;}
 
 .link {display: inline-block; margin-top: 50px;}
 a {margin-left: 10px; margin-right: 10px; font-size: 20px;}
