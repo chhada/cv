@@ -21,10 +21,10 @@ margin-top: 100px;
 margin-bottom: 100px;}
 .h3 {margin-top: 100px;
 display: inline-block;}
-.div1 {width: 500px; display: inline-block; margin-left: 500px;}
-  .meteorite {width: 20%;}
+.div1 {width: 140px;height: 140px;display: inline-block; margin-left: 500px; margin-right: 0}
+  .meteorite {width: 100%;}
 .div3 {width: 500px; display: inline-block;; margin-right: 500px}
- .starship {width: 30%;}
+ .starship {width: 35%;}
 .div4 {margin-top: 50px; width: 50%; margin-left: auto; margin-right: auto;}
  .robot {width: 25%; float: left; margin-right: 30px;}
  .satellite {width: 25%; float: right; margin-left: 30px;}
