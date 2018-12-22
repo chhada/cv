@@ -7,13 +7,13 @@ h3 {font-family: 'Open Sans', sans-serif;color: #E15535;}
 p {font-family: 'Roboto Mono', monospace; margin: 0}
 hr {width: 80px; border-style: dotted; color: gray; border-top: 0; border-left: 0; border-right: 0;
   border-width: 8px; margin-top: 100px; margin-bottom: 100px;}
-.about-me {background-color: white; display: inline-block; width: 50%; margin-top: 200px;}
+.about-me {background-color: white; display: inline-block; width: 75%; margin-top: 200px;}
 .div-meteorite {position: relative; display: inline-block; text-align: center; width: 128px; height: 128px; left: 250px;}
 .meteorite {width: 100%}
 .div-starship {position: relative; display: inline-block; text-align: center; width: 128px; height: 128px; right: 250px;}
 .starship {width: 120%;}
 
-.skills {background-color: white; display: block; width: 50%; margin: 0 auto 0 auto;}
+.skills {background-color: white; display: block; width: 75%; margin: 0 auto 0 auto;}
 .my-skills {margin-bottom: 50px;}
 .div-satellite {width: 180px; height: 180px; float: right; margin-left: 30px;}
 .satellite {width: 100%;}
@@ -22,7 +22,7 @@ hr {width: 80px; border-style: dotted; color: gray; border-top: 0; border-left: 
 .div-my-skill-p1 {width: 100%; height: auto; text-align: left; padding-bottom: 100px;}
 .div-my-skill-p2 {width: 100%; height: auto; text-align: left; padding-bottom: 100px;}
 
-.div-get-in-touch {width: 50%; margin: 0 auto 0 auto; padding-bottom: 100px;}
+.div-get-in-touch {width: 75%; margin: 0 auto 0 auto; padding-bottom: 100px;}
 .butn {margin-top: 50px;font-family: 'Open Sans', sans-serif;
   display: inline-block; -webkit-border-radius: 37; -moz-border-radius: 37;
   border-radius: 37px; color: #ffffff; font-size: 20px; background: #66BFBF;
