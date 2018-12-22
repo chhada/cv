@@ -14,11 +14,12 @@ hr {width: 80px; border-style: dotted; color: gray; border-top: 0; border-left: 
 .starship {width: 120%;}
 
 .skills {background-color: white; display: block; width: 50%; margin: 0 auto 0 auto;}
+.my-skills {margin-bottom: 50px;}
 .div-satellite {width: 180px; height: 180px; float: right; margin-left: 30px;}
 .satellite {width: 100%;}
-.div-robot {width: 180px; height: 180px; float: left;margin-right: 30px;}
+.div-robot {position: relative; width: 180px; height: 180px; float: left;margin-right: 30px;}
 .robot {width: 100%;}
-.div-my-skill-p1 {width: 100%; height: auto; text-align: left; padding-top: 30px; padding-bottom: 100px;}
+.div-my-skill-p1 {width: 100%; height: auto; text-align: left; padding-bottom: 100px;}
 .div-my-skill-p2 {width: 100%; height: auto; text-align: left; padding-bottom: 100px;}
 
 .div-get-in-touch {width: 50%; margin: 0 auto 0 auto; padding-bottom: 100px;}
@@ -31,7 +32,8 @@ hr {width: 80px; border-style: dotted; color: gray; border-top: 0; border-left: 
 .link {background-color: #66BFBF; margin-bottom: 0; width: 100%; height: 150px;}
 .div-skycambodge {width: 50px; height: 50px; display: inline-block; position: relative;top: 15px; margin-right: 10px;}
 .skycambodge {width: 50px; height: 50px;}
-.div-footer-link {width: auto; height: auto; padding-top: 30px; padding-bottom: 30px; font-size: 20px; padding: 20px; font-weight: bold;}
+.div-footer-link {width: auto; height: auto; padding-top: 30px; padding-bottom: 30px; font-size: 20px; padding: 20px;
+  font-weight: bold;}
 a {margin: auto 10px auto 10px;}
 .footer-link {color: #11999E; font-family: 'Open Sans', sans-serif;
 text-decoration: none;}
