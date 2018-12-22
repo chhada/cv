@@ -38,3 +38,4 @@ hr {width: 80px; border-style: dotted; color: gray; border-top: 0; border-left: 
 .footer-link {color: #11999E; font-family: 'Open Sans', sans-serif;font-size: 20px;font-weight: bold; text-decoration: none;}
 
 a {margin: auto 10px auto 10px;}
+a:hover {color: white;}
